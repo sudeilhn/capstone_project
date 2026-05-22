@@ -11,7 +11,7 @@ YOLOv8 tabanlı gerçek zamanlı nesne tespit sistemi.
 ## Files
 - realtime_detection.py
 - merge_and_remap.py
-- merge_extra py
+- merge_extra.py
 - negative_add.py
 
 
